@@ -1,2 +1,2 @@
-# Swiggy_Clone
-Swiggy_Clone
+# AlgoArena
+AlgoArena
