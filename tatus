@@ -1,0 +1,5 @@
+[33m864ecba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Fix signup error completely: Update axios config, CORS, and error handling
+[33md429f1c[m Fix 'Something went wrong' error: Improve error handling and API responses
+[33m8271deb[m Update axiosClient to use environment variable for backend URL
+[33ma6ce848[m fix: allow deployed frontend in CORS
+[33m2ef387b[m Initial commit
