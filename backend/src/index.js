@@ -20,8 +20,8 @@ if (!process.env.JWT_KEY) {
 const allowedOrigins = [
   "http://localhost:5173",                    // local dev
   "http://localhost:3000",                    // local backend
-  "https://dsa-to-solve.onrender.com",        // deployed frontend
-  "https://dsa-to-solve.vercel.app"          // alternative deployment
+  https://algoarena-farm.onrender.com        // deployed frontend
+  //"https://dsa-to-solve.vercel.app"          // alternative deployment
 ];
 
 app.use(cors({
